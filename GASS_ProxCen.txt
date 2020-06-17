@@ -1,9 +1,4 @@
-#File: /nfs/wwwresearch/GASS/SERVER/GASS216-60.mir
-#Robust polynomial order: none
-#Spectral axis = VELO
-#Intensity axis = K
-#
-# Channel Spectral axis Intensity
+Channel SpectralAxis(km/s) Intensity(K)
 1.00000E+00 -3.998213196E+02 5.83709E-02
 2.00000E+00 -3.989979553E+02 3.24378E-02
 3.00000E+00 -3.981746216E+02 1.33530E-02
